@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "597250065379",
+    "project_id": "komsilukconnect",
+    "storage_bucket": "komsilukconnect.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597250065379:android:752dfc16ddd38f383516d6",
+        "android_client_info": {
+          "package_name": "com.example.komsilukconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIBs26UdBDKkHX0dzQg4ZftEB0z7z5mVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
